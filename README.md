@@ -28,6 +28,3 @@ Deploy the agent in IBM Watsonx.ai, upload historical data, and interact via pro
 - "Does this content match previous submissions?"
 - "Is this paragraph AI-generated?"
 
-## License
-
-This project is licensed under the MIT License.
